@@ -1,0 +1,17 @@
+.histo{
+    background-color: #f3f9e3;
+
+}
+.histo{
+    display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+h3{
+    margin-top: 20px;
+    margin-left: 15px;
+}
+p{
+    margin-top: 40px;
+    margin-left: 10px;
+}

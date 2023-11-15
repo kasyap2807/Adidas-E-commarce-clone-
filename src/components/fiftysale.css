@@ -1,0 +1,19 @@
+
+.h1tag{
+    margin-top: 0px;
+}
+.buttonsforsale{
+    margin-top: 50px;
+    margin-left: 30px;
+    box-shadow: 2px 2px rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    width:300px;
+    height:80px;
+    font-size: xx-large;
+}
+.buttonsforsale:hover{
+    transition:scaleX(1.3);
+    background-color: bisque;
+    color:black;
+}

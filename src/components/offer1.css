@@ -1,0 +1,30 @@
+.Offers{
+    text-align: left;
+    margin-left: 120px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.buttons{
+    margin-left: 250px;
+    margin-top: 50px;
+    height: 1px;
+    width: 200px;
+    text-size-adjust: 50px;
+}
+.buttons:hover{
+    background-color: black;
+    transform:scaleX(1.5);
+
+}
+.buttons2{
+    margin-left: 250px;
+    margin-top: 100px;
+    height: 1px;
+    width: 200px;
+    text-size-adjust: 50px;
+}
+.buttons2:hover{
+    background-color: black;
+    transform:scaleX(1.5);
+
+}
